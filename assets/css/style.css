@@ -16,3 +16,13 @@
 .footer-copyright{
     background-color: #666666;
 }
+
+.card{
+    margin-top: 20px;
+}
+
+
+.card-body{
+    background-color:#4aaaa5;
+    color: white;
+}
